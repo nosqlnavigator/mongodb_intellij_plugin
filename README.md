@@ -5,8 +5,8 @@ NoSQL Navigator for MongoDB accelerates your management of MongoDB with faster d
 
 You can:
 * [report ](https://github.com/nosqlnavigator/mongodb_intellij_plugin/issues) a bug 
-* [add](https://github.com/nosqlnavigator/mongodb_intellij_plugin/issues) a suggestion
+* [suggest](https://github.com/nosqlnavigator/mongodb_intellij_plugin/issues) an improvement
 * [read](https://github.com/nosqlnavigator/mongodb_intellij_plugin/blob/master/EULA.md) End-User License Agreement (EULA)
-* [install](https://plugins.jetbrains.com/) the plugin
+* [install](https://plugins.jetbrains.com/plugin/21833-nosql-navigator-for-mongodb) the plugin
 * [visit](https://nosqlnavigator.com) the official website
 * [email](mailto:support@nosqlnavigator.com) us 
